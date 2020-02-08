@@ -1,0 +1,5 @@
+# 844230-codesprint-ui-mywork
+Individual work performed for Gift Card hackathon on 08-02-2020
+1. External CSS style used for effects like transparency, gradient etc.
+2. Homepage created as per instructions in document from IIHT with interactive slideshow using javascript.
+3. Contact Us page created with validation.
